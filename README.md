@@ -1,2 +1,3 @@
-# prime-task-manager-lg2v
-Automated issue comment bot repository
+# Prime Task Manager Lg2V
+
+Automated issue comment bot repository.
